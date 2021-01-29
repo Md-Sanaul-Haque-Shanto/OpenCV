@@ -5,7 +5,7 @@ Awesome Projects i ever practice
 
 # Course Outline
 ### 1. Installation
-Besides installing OpenCV, we cover the installation of the following packages:
+installation of the following packages:
 
 [`caer`](https://github.com/jasmcaus/caer/) is a *lightweight, scalable* Computer Vision library with powerful Image and Video processing operations, designed to help speed up your Computer Vision workflow.
 <pre>$ pip install caer</pre>
